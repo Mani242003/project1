@@ -1,0 +1,33 @@
+
+.Skillcontainer{
+    display: flex;
+    margin: 50px;
+    background-color: black;
+    
+    
+    
+    
+
+}
+
+.Skillsetimg{
+    flex: 0.4;  
+    padding-left: 100px;   
+}
+
+.Skillontainer__Total-text{
+    flex: 0.6;
+    color: white;
+    max-width: 500px;
+}
+.Skillontainer__Total-text>h1{
+    
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.Skillontainer__Total-text>div>h4{
+    font-family: sans-serif;
+    padding: 23px 2px;
+
+}

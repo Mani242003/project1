@@ -1,0 +1,22 @@
+.project__Container{
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+.project__Container>h1{
+    padding: 10px 2px;
+    color: black;
+}
+.project__Container>p{
+    padding: 10px 2px;
+    color: black;
+}
+.projectContainer__content{
+    display: flex;
+    width: 60vw;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    padding: 50px;
+}

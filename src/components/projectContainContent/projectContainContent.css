@@ -1,0 +1,29 @@
+.project{
+    width: 250px;
+    height: 179px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 10px;
+}
+.project:hover{
+    color: white;
+    background-color: orangered;
+    transform: scale(01.05);
+    
+    
+}
+.project>img{
+    width: 250px;
+    height: 179px;
+}
+
+.project__content{
+    padding: 30px 1px;
+    
+}
+.project__content>h4{
+    padding: 15px;
+    
+}
